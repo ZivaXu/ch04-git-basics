@@ -20,6 +20,11 @@ text editor of your choice
 
 5. In the `README.md` file, make an ordered list of what you ate for
 breakfast today
+## What I Ate for Breakfast
+  1. brownies
+  2. iced coffee
+  3. cold rain from Seattle's
+  4. my sorrows and tears
 
 6. Using your terminal, add and commit the changes you've made to your repository
 
